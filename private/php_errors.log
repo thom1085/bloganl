@@ -1,0 +1,18 @@
+[13-Nov-2017 11:08:29 UTC] PHP Fatal error:  Call to undefined function sendQuerySQL() in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 15
+[13-Nov-2017 11:08:29 UTC] PHP Stack trace:
+[13-Nov-2017 11:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0
+[13-Nov-2017 11:09:43 UTC] PHP Warning:  require_once(private/starter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 6
+[13-Nov-2017 11:09:43 UTC] PHP Stack trace:
+[13-Nov-2017 11:09:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0
+[13-Nov-2017 11:09:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'private/starter.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 6
+[13-Nov-2017 11:09:43 UTC] PHP Stack trace:
+[13-Nov-2017 11:09:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0
+[13-Nov-2017 11:22:31 UTC] PHP Fatal error:  Call to undefined function sendQuerySQL() in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 16
+[13-Nov-2017 11:22:31 UTC] PHP Stack trace:
+[13-Nov-2017 11:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0
+[13-Nov-2017 11:23:23 UTC] PHP Fatal error:  Call to undefined function sendQuerySQL() in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 16
+[13-Nov-2017 11:23:23 UTC] PHP Stack trace:
+[13-Nov-2017 11:23:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0
+[13-Nov-2017 11:28:20 UTC] PHP Fatal error:  Call to undefined function sendQuerySQL() in /home/ubuntu/workspace/site5/private/admin/admin-section-read.php on line 16
+[13-Nov-2017 11:28:20 UTC] PHP Stack trace:
+[13-Nov-2017 11:28:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/site5/private/admin/admin-section-read.php:0

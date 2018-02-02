@@ -1,0 +1,2 @@
+#for apache to block my file
+deny from all
